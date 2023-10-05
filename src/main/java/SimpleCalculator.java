@@ -14,7 +14,7 @@ import java.awt.event.ActionListener;
 
 public class SimpleCalculator extends JFrame {
     private JTextField textField;
-    private double firstOperand = 0;
+    private double firstOperand =  0;
     private char operation = ' ';
 
     public SimpleCalculator() {
